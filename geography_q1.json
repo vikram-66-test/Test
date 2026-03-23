@@ -1,0 +1,202 @@
+[
+  {
+    "q": "Which is the largest river basin in India by area?",
+    "o": [
+      "Ganga",
+      "Godavari",
+      "Indus",
+      "Brahmaputra"
+    ],
+    "a": "QQ=="
+  },
+  {
+    "q": "Which state has the longest coastline in India?",
+    "o": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Gujarat",
+      "Maharashtra"
+    ],
+    "a": "Qw=="
+  },
+  {
+    "q": "The Siachen Glacier is located in which mountain range?",
+    "o": [
+      "Zanskar",
+      "Karakoram",
+      "Ladakh",
+      "Pir Panjal"
+    ],
+    "a": "Qg=="
+  },
+  {
+    "q": "Which is the highest peak entirely within Indian territory?",
+    "o": [
+      "Nanda Devi",
+      "Kangchenjunga",
+      "K2",
+      "Kamet"
+    ],
+    "a": "Qg=="
+  },
+  {
+    "q": "The Tropic of Cancer does NOT pass through which state?",
+    "o": [
+      "Rajasthan",
+      "Odisha",
+      "Tripura",
+      "Karnataka"
+    ],
+    "a": "RA=="
+  },
+  {
+    "q": "Which is the largest freshwater lake in India?",
+    "o": [
+      "Dal Lake",
+      "Chilika",
+      "Wular Lake",
+      "Loktak"
+    ],
+    "a": "Qw=="
+  },
+  {
+    "q": "The Palk Strait separates India from?",
+    "o": [
+      "Maldives",
+      "Sri Lanka",
+      "Bangladesh",
+      "Myanmar"
+    ],
+    "a": "Qg=="
+  },
+  {
+    "q": "Which national park is the primary home of the one-horned rhinoceros?",
+    "o": [
+      "Jim Corbett",
+      "Kaziranga",
+      "Sundarbans",
+      "Bandipur"
+    ],
+    "a": "Qg=="
+  },
+  {
+    "q": "The Western Ghats are also known as?",
+    "o": [
+      "Sahyadri",
+      "Malayagiri",
+      "Shevaroy",
+      "Malnad"
+    ],
+    "a": "QQ=="
+  },
+  {
+    "q": "Which river is called the Sorrow of Bihar?",
+    "o": [
+      "Gandak",
+      "Kosi",
+      "Bagmati",
+      "Mahananda"
+    ],
+    "a": "Qg=="
+  },
+  {
+    "q": "Loktak Lake is in which state?",
+    "o": [
+      "Assam",
+      "Meghalaya",
+      "Manipur",
+      "Nagaland"
+    ],
+    "a": "Qw=="
+  },
+  {
+    "q": "Which is the smallest state of India by area?",
+    "o": [
+      "Sikkim",
+      "Tripura",
+      "Goa",
+      "Nagaland"
+    ],
+    "a": "Qw=="
+  },
+  {
+    "q": "The Bara Lacha La pass connects which two regions?",
+    "o": [
+      "Ladakh & Himachal Pradesh",
+      "Sikkim & Tibet",
+      "Uttarakhand & Nepal",
+      "Kashmir & Gilgit"
+    ],
+    "a": "QQ=="
+  },
+  {
+    "q": "Which soil type is most suitable for cotton cultivation?",
+    "o": [
+      "Alluvial",
+      "Red",
+      "Black (Regur)",
+      "Laterite"
+    ],
+    "a": "Qw=="
+  },
+  {
+    "q": "The Sundarbans delta is formed by which rivers?",
+    "o": [
+      "Ganga & Brahmaputra",
+      "Ganga & Mahanadi",
+      "Brahmaputra & Barak",
+      "Ganga & Hooghly"
+    ],
+    "a": "QQ=="
+  },
+  {
+    "q": "Which river flows west into the Arabian Sea after Narmada and Tapti?",
+    "o": [
+      "Mahi",
+      "Sabarmati",
+      "Luni",
+      "Purna"
+    ],
+    "a": "Qg=="
+  },
+  {
+    "q": "Chilika Lake is located in which state?",
+    "o": [
+      "West Bengal",
+      "Andhra Pradesh",
+      "Odisha",
+      "Tamil Nadu"
+    ],
+    "a": "Qw=="
+  },
+  {
+    "q": "What is the southernmost tip of mainland India called?",
+    "o": [
+      "Cape Comorin",
+      "Indira Point",
+      "Point Calimere",
+      "Pamban Island"
+    ],
+    "a": "QQ=="
+  },
+  {
+    "q": "The Deccan Plateau is bounded in the west by?",
+    "o": [
+      "Eastern Ghats",
+      "Vindhya Range",
+      "Western Ghats",
+      "Satpura Range"
+    ],
+    "a": "Qw=="
+  },
+  {
+    "q": "Which union territory has the highest literacy rate in India?",
+    "o": [
+      "Delhi",
+      "Puducherry",
+      "Lakshadweep",
+      "Chandigarh"
+    ],
+    "a": "Qw=="
+  }
+]
